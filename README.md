@@ -1,0 +1,2 @@
+# CoreWinInterpreter
+Интерпретатор языка RedCode
